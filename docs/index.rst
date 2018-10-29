@@ -1,4 +1,4 @@
-bootstrap-datepicker
+bootstrap-datepicker Alex
 ====================
 
 Bootstrap-datepicker provides a flexible datepicker widget in the Bootstrap style.
